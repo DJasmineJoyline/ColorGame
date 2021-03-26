@@ -11,7 +11,7 @@ Output consists of an integer that corresponds to the minimum possible number of
 Sample Input 1:  4  1  1  2  2   </br>  
 Sample Output 1:  5 
 </br>
-Sample Input 2:  4  1  1  2  3  </br>   
+Sample Input 2:  4  1  1  2  3  
 Sample Output 2:  9     
 </br>
 Sample Input 3:  9  2  2  44  2  2  2  444  2  2     </br>
