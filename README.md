@@ -8,9 +8,9 @@ Assume that the maximum value of n is 20.
 Output consists of an integer that corresponds to the minimum possible number of children present in the class.   </br> 
 
 
-Sample Input 1:  4  1  1  2  2   </br>  
-Sample Output 1:  5 
-</br>
+Sample Input 1:  4  1  1  2  2  
+Sample Output 1:  5 </br>   
+
 Sample Input 2:  4  1  1  2  3  
 Sample Output 2:  9     
 </br>
